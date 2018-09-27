@@ -1,0 +1,21 @@
+{
+  "name": "王文强的个人网站",
+  "short_name": "王文强的个人网站",
+  "description": "王文强的个人网站",
+  "display": "standalone",
+  "start_url": "http://blog.codekiller.wang",
+  "theme_color": "#000",
+  "background_color": "#313131",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+  ]
+}
